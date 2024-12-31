@@ -8,7 +8,7 @@ blue = '\x1b[34m(+)\x1b[0m'
 green = '\x1b[32m(+)\x1b[0m'
 yellow = '\x1b[33m(!)\x1b[0m'
 
-ctypes.windll.kernel32.SetConsoleTitleW("TikTok Mass Reporter | Made With <3 By Joy")
+ctypes.windll.kernel32.SetConsoleTitleW("TikTok Mass Reporter | t.me/gh000st1")
 
 banner = fade.fire("""
   _____ _ _    _____     _    
@@ -16,7 +16,7 @@ banner = fade.fire("""
    | | | | |/ / | |/ _ \'| |/ /
    | | | |   <  | | (_) |   < 
    |_| |_|_|\'_\' |_|\'___/|_|\'_\'
-                 MASS REPORT TOOL""")
+                 MASS REPORT TOOL GHOSTTTTTT""")
 
 with open('config.json') as f:
     config = json.load(f)
